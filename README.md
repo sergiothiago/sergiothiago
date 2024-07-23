@@ -1,25 +1,26 @@
-## Prazer, Sérgio 👋
+## Nice to meet you, Sérgio 👋
 
-Especialidade: Liderando equipes e desenvolvendo software utilizando Java com o framework Spring ou J2EE no Backend. Também já atuei em projetos Java monólitos com JSF.
+Specialty: Leading teams and developing software using Java with the Spring framework or J2EE on the Backend. I have also worked on monolithic Java projects with JSF.
 
-- Tecnologias:
-  
+Technologies:
+
 - Java.
-- Spring e SpringCloud.
-- Micro serviços.
-- Mensageria (KAFKA, Rabbitmq ou ActiveMQ)
-- Cloud: AWS, Azure e um pouco de Google Cloud. 
-- AWS EC2, S3, ECS, RDS, ELB, AWS ASG, Lambda, SQS, Azure Functions, CosmosDb, Oracle RDS, AWS EKS. GCP. 
-- Observação de logs com Grafana, Datadog ou Splunk faz parte da rotina.
-- Banco de Dados: Oracle, SqlServer, MySql, Firebird, CosmosDB( Não relacional), MariaDB, PostgreSql.
+- Spring and SpringCloud.
+- Microservices.
+- Messaging (KAFKA, RabbitMQ, or ActiveMQ)
+- Cloud: AWS, Azure, and a bit of Google Cloud.
+- AWS EC2, S3, ECS, RDS, ELB, AWS ASG, Lambda, SQS, Azure Functions, CosmosDb, Oracle RDS, AWS EKS. GCP.
+- Log observation with Grafana, Datadog, or Splunk is part of the routine.
+- Databases: Oracle, SqlServer, MySql, Firebird, CosmosDB (Non-relational), MariaDB, PostgreSql.
 - Redis.
-- IDE's: Intellij, STS ou Eclipse.
-- Entre muitos outros...
+- IDEs: Intellij, STS, or Eclipse.
+- Among many others...
 
+⚡ Time working with Java development: 6 years.
 
-- ⚡ Tempo de atuação com desenvolvimento na linguagem Java: 6 anos.
-- ⚡Tempo de atuação como desenvolvedor em empresas privadas: 8 anos.
-- ⚡Tempo de atuação como desenvolvedor (envolvendo iniciação cientifica ): 10 anos.
+⚡ Time working as a developer in private companies: 8 years.
+
+⚡ Time working as a developer (including scientific initiation): 10 years.
 
 
  <br>
