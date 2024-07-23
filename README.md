@@ -1,16 +1,22 @@
-## Hi there 👋
+## Prazer, Sérgio 👋
 
-<!--
-**sergiothiago/sergiothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialidade: Liderando equipes e desenvolvendo software utilizando Java com o framework Spring ou J2EE no Backend. Também já atuei em projetos Java monólitos com JSF.
 
-Here are some ideas to get you started:
+Tecnologias:
+Java.
+Spring e SpringCloud.
+Micro serviços.
+Mensageria (KAFKA, Rabbitmq ou ActiveMQ)
+Cloud: AWS, Azure e um pouco de Google Cloud. 
+AWS EC2, S3, ECS, RDS, ELB, AWS ASG, Lambda, SQS, Azure Functions, CosmosDb, Oracle RDS, AWS EKS. GCP. 
+Observação de logs com Grafana, Datadog ou Splunk faz parte da rotina.
+Banco de Dados: Oracle, SqlServer, MySql, Firebird, CosmosDB( Não relacional), MariaDB, PostgreSql.
+Redis.
+IDE's: Intellij, STS ou Eclipse.
+Entre muitos outros...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tempo de atuação com desenvolvimento na linguagem Java: 6 anos.
+⚡Tempo de atuação como desenvolvedor em empresas privadas: 8 anos.
+⚡Tempo de atuação como desenvolvedor (envolvendo iniciação cientifica ): 10 anos.
+
+
