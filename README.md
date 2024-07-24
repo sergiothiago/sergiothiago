@@ -35,6 +35,10 @@ Technologies:
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiothiago)
 
+
+
+![snake gif](https://github.com/segiothiago/sergiothiago/blob/output/github-contribution-grid-snake.svg)
+
  
 
 
