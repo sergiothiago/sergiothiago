@@ -11,12 +11,6 @@ Specialty: Leading teams and developing software using Java with the Spring fram
 </div>
 <br>
    
-⚡ Time working with Java development: 6 years.
-
-⚡ Time working as a developer in private companies: 8 years.
-
-⚡ Time working as a developer (including scientific initiation): 10 years.
-
 <ul>
   <li>🖥️ Time working with Java development: 6 years. </li>
   <li>🖥️ Time working as a developer in private companies: 8 years. </li>
