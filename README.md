@@ -36,8 +36,12 @@ Technologies:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiothiago)
 
 
+<!--SNAKE-->
 
-![snake gif](https://github.com/sergiothiago/sergiothiago/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<a href="https://github.com/walidbosso">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/sergiothiago/sergiothiago/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
 
  
 
