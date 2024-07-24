@@ -27,7 +27,6 @@ Specialty: Leading teams and developing software using Java with the Spring fram
 
           
 <div>
-  <img alt="sergio-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img alt="sergio-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="sergio-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img  alt="sergio-html" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
