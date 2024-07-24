@@ -37,7 +37,7 @@ Technologies:
 
 
 
-![snake gif](https://github.com/segiothiago/sergiothiago/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sergiothiago/sergiothiago/blob/output/github-contribution-grid-snake.svg)
 
  
 
