@@ -18,7 +18,7 @@ Specialty: Leading teams and developing software using Java with the Spring fram
 ⚡ Time working as a developer (including scientific initiation): 10 years.
 
 <ul>
-  <li>🖥️ Time working with Java development: 6 years. </li
+  <li>🖥️ Time working with Java development: 6 years. </li>
   <li>🖥️ Time working as a developer in private companies: 8 years. </li>
   <li>🖥️ Time working as a developer (including scientific initiation): 10 years. </li>
   <li>🎓 Bachelors Degree in Computer Engineer by Universidade do Estado do Rio de Janeiro </li>
